@@ -11,5 +11,5 @@ Será possível acessar a aplicação por meio do browser ou do próprio arquivo
 <p>
 O link a seguir disponibiliza a aplicação por tempo limitado, então caso o mesmo não esteja funcionando, será necessário clonar/baixar o código.
 </p>
-🔗 [Link do projeto](https://044d933bc5c40a381d.gradio.live)
+[Link do projeto 🔗](https://044d933bc5c40a381d.gradio.live)
 
